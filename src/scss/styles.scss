@@ -1,4 +1,17 @@
 // Custom variable overrides go here
+a:active {
+  text-decoration: underline;
+}
+
+.jumbotron {
+    background: url("../img/pirate-ship.jpg") no-repeat;
+    background-size: cover;
+  }
+
+ h1 {
+    font-family: 'Liu Jian Mao Cao', serif;
+    font-size: 50px;
+  }
 // For options, see node_modules/bootstrap/scss/_variables.scss
 // examples:
 // $body-bg: black;
